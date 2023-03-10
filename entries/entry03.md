@@ -10,7 +10,7 @@ https://threejs.org/
 For the engineering design process I am now at the point where I can now use my gathered info to begin building/creating.
 
 ### Skills
-The skills I learned while obtaining info for Three.js is the ability to gather important info, since I had to pick what I wanted to learn taking in those pieces of evidence. Furthermore I also learned how to 
+The skills I learned while obtaining info for Three.js is the ability to gather important info, since I had to pick what I wanted to learn taking in those pieces of evidence. Furthermore I also learned how to process info as I needed to understand what I was learning and how to use it in my code.
 
 
 [Previous](entry02.md) | [Next](entry04.md)
