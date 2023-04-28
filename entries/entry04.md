@@ -10,7 +10,7 @@ var person
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
 ```
-This code helped do that creating a new scene so I can make my walls upon it then hanging the perspective to give it that realistic feel.
+This code helped do that creating a new scene so I can make my walls upon it then hanging the perspective to give it that immersive feel.
 
 ### EDP
 For the engineering design process I am currently creating my prototype.
