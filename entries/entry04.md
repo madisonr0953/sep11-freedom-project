@@ -1,6 +1,6 @@
 # Entry 4
 ##### 3/13/2006
-For my prototype I started my creating my walls
+For my prototype I started by creating my walls
 
 ### EDP
 For the engineering design process I am currently creating my prototype.
