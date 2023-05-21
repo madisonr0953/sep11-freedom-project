@@ -8,7 +8,6 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 
 const textures = new THREE.TextureLoader().load('spacer.jpg')
 scene.background = textures;
-
 camera.position.z = 5
 camera.position.y = 0.5
 document.body.appendChild(renderer.domElement);
