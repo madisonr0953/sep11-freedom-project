@@ -1,4 +1,3 @@
-r
 import * as THREE from 'https://unpkg.com/three/build/three.module.js';
 import { FirstPersonControls } from 'https://cdn.skypack.dev/three@0.136/examples/jsm/controls/FirstPersonControls.js';
 const scene = new THREE.Scene();
