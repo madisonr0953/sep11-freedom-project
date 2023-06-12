@@ -9,7 +9,7 @@ Skills : The skills that I used were communication as I had to share with my pee
 EDP : I am finalized with my engineering design process.
 
 Links : Slides: https://docs.google.com/presentation/d/1LnSGjnIUBlCcABIt-5UsW1ytOYE-0gqvpMak4BH_AD4/edit
-        Notes : 
+        Notes : https://docs.google.com/document/d/1TPFEtWF_PbjDGRcZut0g6Df2J1TdEJMz2sI9aykbnmM/edit
 
 [Previous](entry05.md) | [Next](entry07.md)
 
